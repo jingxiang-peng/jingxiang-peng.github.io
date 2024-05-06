@@ -26,11 +26,11 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio1: |
-  Greetings! I am Jingxiang Peng, a candidate in the programme of MSc in Geospatial Data Science. As a graduate majoring in Statistics, I am eager to pursue an opportunity to explore more in the field of Geospatial Data Science.
+  Greetings! I am Jingxiang Peng, a candidate in the programme of MSc in Geospatial Data Science. As a graduate majoring in Statistics, I am eager to pursue opportunities to explore more in the field of Spatial Data Science.
 bio2: |
-  In the spring of 2023, owing to my exceptional performance in the China Undergraduate Mathematical Contest in Modeling, I was recommended for an internship as a research assistant at the Zhejiang Academy of Forestry. Prior to obtaining the bachelor's degree in Applied Statistics, I completed my undergraduate thesis concentrating on spatial-temporal analysis of high-quality development of county economy in Zhejiang Province.
+  In the spring of 2023, owing to my exceptional performance in the China Undergraduate Mathematical Contest in Modeling, I was recommended for an internship as a research assistant at Zhejiang Academy of Forestry. Prior to obtaining the bachelor's degree in Applied Statistics, I completed my undergraduate thesis focusing on the high-quality development of county economy in Zhejiang Province.
 bio3: |
-  Outside of academia, I am a cycling enthusiast, I once spent 5 days to join a 360-kilometer cycling tour around Qinghai Lake at an altitude of 3,196 meters. I am also passionate about Geographical phenomena, enjoying learning them through practice, like in the journey or something.
+  Outside of academia, I am a cycling enthusiast, I once joined a cycling group in Qinghai, and spent 5 days completing a 360-kilometer cycling tour around Qinghai Lake at an altitude of 3,196 meters. I am also passionate about Geographical phenomena, enjoying learning them through practice, like in the journey or something.
 
 # Interests to show in About widget
 interests:
@@ -119,9 +119,9 @@ education:
 highlight_name: true
 ---
 
-Greetings! I am Jingxiang Peng, a candidate in the programme of MSc in Geospatial Data Science. As a graduate majoring in Statistics, I am eager to pursue an opportunity to explore more in the field of Geospatial Data Science.
+Greetings! I am Jingxiang Peng, a candidate in the programme of MSc in Geospatial Data Science. As a graduate majoring in Statistics, I am eager to pursue opportunities to explore more in the field of Spatial Data Science.
 
-In the spring of 2023, owing to my exceptional performance in the China Undergraduate Mathematical Contest in Modeling, I was recommended for an internship as a research assistant at the Zhejiang Academy of Forestry. Prior to obtaining the bachelor's degree in Applied Statistics, I completed my undergraduate thesis concentrating on spatial-temporal analysis of high-quality development of county economy in Zhejiang Province.
+In the spring of 2023, owing to my exceptional performance in the China Undergraduate Mathematical Contest in Modeling, I was recommended for an internship as a research assistant at Zhejiang Academy of Forestry. Prior to obtaining the bachelor's degree in Applied Statistics, I completed my undergraduate thesis focusing on the high-quality development of county economy in Zhejiang Province.
 
-Outside of academia, I am a cycling enthusiast, I once spent 5 days to join a 360-kilometer cycling tour around Qinghai Lake at an altitude of 3,196 meters. I am also passionate about Geographical phenomena, enjoying learning them through practice, like in the journey or something.
+Outside of academia, I am a cycling enthusiast, I once joined a cycling group in Qinghai, and spent 5 days completing a 360-kilometer cycling tour around Qinghai Lake at an altitude of 3,196 meters. I am also passionate about Geographical phenomena, enjoying learning them through practice, like in the journey or something.
 {style="text-align: justify;"}

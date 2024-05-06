@@ -122,7 +122,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Project
+      title: Projects
       filters:
         folders:
           - project
@@ -162,7 +162,7 @@ sections:
         - title: Business Analyst Intern
           company: Publicis Groupe
           company_url: 'https://www.publicisgroupe.com/fr/splash'
-          company_logo: org-gc
+          company_logo: 
           location: Shanghai
           date_start: '2024-03-19'
           date_end: ''
@@ -175,7 +175,7 @@ sections:
         - title: Data Analyst Intern
           company: Alibaba Group
           company_url: 'https://www.alibabagroup.com/'
-          company_logo: org-x
+          company_logo: 
           location: Hangzhou
           date_start: '2023-07-03'
           date_end: '2023-08-04'
@@ -257,12 +257,12 @@ sections:
       # email: test@example.org
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
-      # address:
-        # street: 450 Serra Mall
-        # city: Stanford
-        # region: CA
+      address:
+        street: No. 688 Nanjing West Road
+        city: Jing'an District
+        region: Shanghai City
         # postcode: '94305'
-        # country: United States
+        country: China
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
