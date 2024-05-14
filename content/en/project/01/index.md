@@ -1,0 +1,4 @@
+---
+title: 01 Spatial-temporal analysis of the high-quality development of county economy in Zhejiang Province
+summary: This is the research direction of my undergraduate thesis. Based on the new development concept that includes innovation, coordination, green growth, openness, and shared benefits, I constructed an evaluation model for the high-quality development of county economy in Zhejiang Province. Combined with statistical methodologies for spatial and temporal analysis, I conducted research according to the relevant data from 52 counties collected between 2017 and 2022. The results showed that although the pace of growth concerning openness development has somewhat decelerated, the overall development level of county economy in Zhejiang Province is on the rise. The level of coupling and coordination predominantly demonstrates basic coordination, and the overall spatial characteristics are higher in the northeast and lower in the southwest.
+---
